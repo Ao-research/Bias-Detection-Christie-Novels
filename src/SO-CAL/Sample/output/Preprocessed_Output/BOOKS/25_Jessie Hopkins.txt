@@ -1,0 +1,15 @@
+Yours/GW ever/RB ,/, Jessie/NNP Hopkins/NNP ./.
+"/`` "/`` Your/PRP$ name/NN is/VBZ Jessie/NNP Hopkins/NNP ?/.
+"/`` "/`` Yes/UH ./.
+"/`` "/`` You/PRP are/VBP a/DT certified/JJ District/NNP Nurse/NN and/CC you/PRP reside/VBP at/IN Rose/NNP Cottage/NNP ,/, Hunterbury/NNP ?/.
+"/`` "/`` Yes/UH ./.
+"/`` "/`` Where/WRB were/VBD you/PRP on/IN the/DT 28th/NN of/IN June/NNP last/JJ ?/.
+"/`` "/`` Under/IN what/WP name/NN ?/.
+"/`` "/`` Jessie/NNP Hopkins/NNP ./.
+"/`` He/PRP spoke/VBD in/IN a/DT small/JJ ,/, clear/JJ ,/, penetrating/VBG voice/NN ,/, "/`` It/PRP is/VBZ desirable/JJ ,/, I/PRP think/VBP ,/, that/IN the/DT witness/NN Jessie/NNP Hopkins/NNP should/MD be/VB recalled/VBN ./.
+"/`` Your/PRP$ lordship/NN ,/, Jessie/NNP Hopkins/NNP left/VBD the/DT court/NN a/DT few/JJ minutes/NNS ago/RB ./. "/''
+Hopkins/NNP is/VBZ a/DT sensible/JJ ,/, shrewd/JJ ,/, middle/JJ -/HYPH aged/JJ woman/NN ,/, quite/RB kindly/RB and/CC competent/JJ ,/, but/CC a/DT sight/NN too/RB much/JJ interested/JJ in/IN other/JJ people/NNS 's/POS business/NN !/.
+"/`` "/`` If/IN there/EX had/VBD been/VBN trouble/NN over/IN some/DT young/JJ man/NN in/IN the/DT village/NN ,/, would/MD Nurse/NNP Hopkins/NNP know/VBP about/IN it/PRP ?/.
+"/`` "/`` You/PRP bet/VBP !/.
+"/`` She/PRP was/VBD also/RB unaware/JJ of/IN the/DT true/JJ identity/NN of/IN the/DT woman/NN Hopkins/NNP ./. "/''
+The/DT witness/NN Hopkins/NNP has/VBZ stated/VBN that/IN she/PRP pricked/VBD her/PRP$ wrist/NN on/IN a/DT rose/NN tree/NN at/IN the/DT lodge/NN ./.

@@ -1,0 +1,4 @@
+Dr./NNP Willoughby/NNP rose/VBD to/IN greet/VB him/PRP ./.
+"/`` "/`` Good/JJ heavens/NNS !/.
+"/`` said/VBD Dr./NNP Willoughby/NNP ,/, "/`` surely/RB you/PRP are/VBP not/RB suggesting/VBG -/, "/'' "/`` That/IN it/PRP was/VBD Margaret/NNP who/WP followed/VBD her/PRP$ sleepwalking/JJ sister/NN ,/, and/CC that/IN it/PRP was/VBD Margaret/NNP 's/POS hand/NN that/WDT was/VBD stretched/VBN out/RP to/TO push/VB Dorothea/NNP over/IN the/DT cliff/NN edge/NN ?/.
+"/`` "/`` I/PRP refuse/VBP absolutely/RB ,/, "/'' said/VBD Dr./NNP Willoughby/NNP ,/, "/'' to/TO accept/VB any/DT such/JJ idea/NN ./.

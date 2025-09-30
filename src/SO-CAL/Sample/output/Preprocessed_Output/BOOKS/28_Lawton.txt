@@ -1,0 +1,53 @@
+"/`` And/CC her/PRP$ name/NN is/VBZ ?/, "/''
+"/`` Mrs./NNP Lawton/NNP ./. "/''
+Lawton/NNP --/HYPH Mrs./NNP Lawton/NNP ./.
+Mrs./NNP Lawton/NNP ,/, he/PRP saw/VBD ,/, had/VBD a/DT flat/JJ on/IN the/DT ground/NN floor/NN ./.
+"/`` Mrs./NNP Lawton/NNP ?/. "/''
+"/`` Yes/UH ?/. "/''
+"/`` I/PRP wish/VBP we/PRP could/MD spare/VB you/PRP all/DT that/WDT ,/, Mrs./NNP Lawton/NNP ./.
+"/`` It/PRP 's/POS a/DT shame/NN to/TO worry/VB private/JJ people/NNS as/IN they/PRP do/VBP ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ,/, "/`` saying/VBG they/PRP have/VBP to/TO have/VB news/NN for/IN the/DT public/NN ./.
+Mrs./NNP Lawton/NNP bent/VBD forward/RB to/TO pick/VB them/PRP up/RP ,/, but/CC the/DT inspector/NN politely/RB forestalled/VBD her/PRP ./.
+One/CD was/VBD addressed/VBN to/IN Mrs./NNP Lawton/NNP and/CC the/DT two/CD others/NNS to/IN Miss/NNP R./NNP S./NNP Webb/NNP ./.
+Mrs./NNP Lawton/NNP returned/VBD ,/, slightly/RB more/RBR breathless/JJ than/IN before/RB ./.
+"/`` Yes/UH ,/, indeed/RB ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ./.
+But/CC she/PRP 's/POS not/RB back/RB yet/RB ,/, is/VBZ that/IN it/PRP ?/. "/''
+"/`` She/PRP 'll/VBP probably/RB be/VB rather/RB late/RB this/DT evening/NN ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ./.
+"/`` Oh/UH ,/, I/PRP see/VBP ,/, "/'' Mrs./NNP Lawton/NNP looked/VBD vaguely/RB interested/JJ ./.
+"/`` Have/VBP you/PRP got/VBD her/PRP$ address/NN in/IN London/NNP ?/. "/''
+"/`` Well/UH ,/, I/PRP 've/VBP got/VBD it/PRP somewhere/RB ,/, "/'' Mrs./NNP Lawton/NNP looked/VBD round/IN her/PRP with/IN the/DT vague/JJ expression/NN of/IN the/DT habitually/RB untidy/JJ ./.
+He/PRP wondered/VBD if/IN he/PRP had/VBD been/VBN right/JJ or/CC wrong/JJ in/IN thinking/VBG that/IN his/PRP$ last/JJ question/NN had/VBD in/IN some/DT way/NN perturbed/VBN Mrs./NNP Lawton/NNP ./.
+He/PRP thought/VBD about/IN it/PRP until/IN Mrs./NNP Lawton/NNP returned/VBD ./.
+"/`` May/MD I/PRP ask/VB what/WP all/PDT this/DT has/VBZ got/VBN to/TO do/VB with/IN it/PRP --/: I/PRP mean/VBP what/WP does/VBZ it/PRP matter/VB who/WP her/PRP$ father/NN and/CC mother/NN were/VBD and/CC what/WP her/PRP$ father/NN did/VBD and/CC where/WRB he/PRP came/VBD from/IN or/CC anything/NN like/IN that/DT ?/. "/''
+"/`` I/PRP suppose/VBP it/PRP does/VBZ n't/RB matter/RB really/RB ,/, Mrs./NNP Lawton/NNP ,/, not/RB from/IN your/PRP$ point/NN of/IN view/NN ,/, that/DT is/VBZ ./.
+"/`` And/CC I/PRP do/VBP n't/RB like/IN to/TO hear/VB anybody/NN suggesting/VBG the/DT contrary/NN ,/, "/'' said/VBD Mrs./NNP Lawton/NNP belligerently/RB ./.
+"/`` But/CC you/PRP must/MD realize/VB ,/, Mrs./NNP Lawton/NNP ,/, that/IN it/PRP looks/VBZ as/IN though/IN your/PRP$ niece/NN has/VBZ been/VBN deliberately/RB made/VBN a/DT victim/NN ./.
+"/`` I/PRP do/VBP n't/RB think/VB it/PRP could/MD be/VB anything/NN of/IN that/DT kind/NN ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ,/, puckering/VBG her/PRP$ eyes/NNS in/IN thought/NN and/CC frowning/VBG ./.
+"/`` Perhaps/RB one/CD of/IN the/DT girls/NNS she/PRP shared/VBD rooms/NNS with/IN there/EX was/VBD jealous/JJ of/IN her/PRP ?/. "/''
+"/`` I/PRP suppose/VBP ,/, "/'' said/VBD Mrs./NNP Lawton/NNP doubtfully/RB ,/, "/`` that/IN there/EX might/MD be/VB a/DT girl/NN who/WP 'd/MD want/VB to/TO do/VB her/PRP a/DT bad/JJ turn/NN ./.
+It/PRP was/VBD a/DT shrewd/JJ appreciation/NN and/CC Hardcastle/NNP noted/VBD that/IN Mrs./NNP Lawton/NNP was/VBD by/IN no/DT means/VBZ a/DT fool/NN ./.
+"/`` It/PRP must/MD have/VB been/VBN someone/NN mad/JJ ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ./.
+"/`` I/PRP think/VBP you/PRP must/MD know/VB a/DT little/JJ more/JJR than/IN you/PRP are/VBP telling/VBG me/PRP ,/, Mrs./NNP Lawton/NNP ./. "/''
+"/`` Were/VBD they/PRP ,/, perhaps/RB ,/, divorced/JJ --/HYPH something/NN of/IN that/DT kind/NN ?/. "/''
+"/`` No/UH ,/, they/PRP were/VBD n't/RB divorced/VBN ./. "/''
+"/`` Come/VB now/RB ,/, Mrs./NNP Lawton/NNP ./.
+But/CC I/PRP do/VBP want/VB all/PDT the/DT facts/NNS that/WDT you/PRP know/VBP ,/, Mrs./NNP Lawton/NNP ,/, and/CC I/PRP assure/VBP you/PRP that/IN I/PRP 'll/VBP do/VB my/PRP$ best/JJS to/TO keep/VB what/WP you/PRP tell/VBP me/PRP entirely/RB between/IN ourselves/PRP ./. "/''
+"/`` It/PRP 's/POS not/RB a/DT nice/JJ thing/NN to/TO happen/VB ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ,/, "/`` and/CC I/PRP was/VBD very/RB distressed/JJ about/IN it/PRP ,/, I/PRP can/MD tell/VB you/PRP ./.
+She/PRP got/VBD to/TO know/VB this/DT man/NN --/, this/DT Webb/NNP --/HYPH "/'' "/`` I/PRP never/RB even/RB knew/VBD what/WP his/PRP$ name/NN was/VBD ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ./.
+"/`` Where/WRB is/VBZ your/PRP$ sister/NN now/RB ,/, Mrs./NNP Lawton/NNP ?/. "/''
+"/`` I/PRP 've/VBP no/DT idea/NN ./.
+He/PRP said/VBD mildly/RB :/: "/`` It/PRP seems/VBZ odd/JJ that/IN she/PRP did/VBD not/RB at/RB least/RBS keep/VB in/IN touch/NN with/IN you/PRP by/IN letter/NN ,/, did/VBD not/RB want/VB to/TO know/VB how/WRB the/DT child/NN was/VBD progressing/VBG ?/. "/''
+Mrs./NNP Lawton/NNP shook/VBD her/PRP$ head/NN ./.
+"/`` And/CC what/WP did/VBD your/PRP$ husband/NN feel/VB about/IN this/DT adoption/NN ?/. "/''
+"/`` I/PRP was/VBD a/DT widow/NN then/RB ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ./.
+He/PRP took/VBD the/DT photograph/NN from/IN his/PRP$ pocket/NN which/WDT he/PRP had/VBD been/VBN showing/VBG to/IN so/RB many/JJ people/NNS ,/, and/CC showed/VBD it/PRP to/IN Mrs./NNP Lawton/NNP ./.
+"/`` You/PRP 've/VBP no/DT idea/NN who/WP this/DT man/NN could/MD be/VB ?/. "/''
+"/`` They/PRP 've/VBP shown/VBN it/PRP me/PRP already/RB ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ./.
+A/DT gentleman/NN ,/, I/PRP 'd/MD say/VB ,/, would/MD n't/RB you/PRP ?/. "/''
+It/PRP was/VBD a/DT slightly/RB outmoded/JJ term/NN in/IN the/DT inspector/NN 's/POS experience/NN ,/, yet/CC it/PRP fell/VBD very/RB naturally/RB from/IN Mrs./NNP Lawton/NNP 's/POS lips/NNS ./.
+But/CC the/DT explanation/NN he/PRP had/VBD given/VBN to/IN Mrs./NNP Lawton/NNP just/RB now/RB might/MD have/VB been/VBN the/DT true/JJ one/NN ./.
+"/`` I/PRP must/MD n't/RB keep/VB you/PRP from/IN your/PRP$ cooking/NN any/RB longer/RBR ,/, "/'' he/PRP said/VBD ,/, "/`` since/IN your/PRP$ niece/NN is/VBZ not/RB home/RB yet/RB --/HYPH "/'' Mrs./NNP Lawton/NNP in/IN turn/NN looked/VBD at/IN the/DT clock/NN on/IN the/DT mantelpiece/NN ./.
+He/PRP asked/VBD :/: "/`` Is/VBZ she/PRP a/DT great/JJ friend/NN of/IN your/PRP$ niece/NN 's/POS ?/. "/''
+"/`` Well/UH ,/, not/RB particularly/RB ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ./.
+"/`` It/PRP 's/POS odd/JJ ,/, "/'' said/VBD Mrs./NNP Lawton/NNP ,/, "/`` that/IN Sheila/NNP has/VBZ n't/RB telephoned/VBN ./.
+"/`` Well/UH ,/, good/JJ night/NN ,/, Mrs./NNP Lawton/NNP ./. "/''
+This/DT was/VBD the/DT girl/NN he/PRP had/VBD passed/VBN in/IN the/DT street/NN when/WRB he/PRP was/VBD going/VBG to/IN Mrs./NNP Lawton/NNP 's/POS house/NN ,/, the/DT girl/NN who/WP had/VBD wanted/VBN to/TO see/VB Sheila/NNP Webb/NNP ./.

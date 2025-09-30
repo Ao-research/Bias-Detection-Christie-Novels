@@ -1,0 +1,17 @@
+Janet/NNP White/NNP ./.
+He/PRP read/VBD the/DT last/JJ name/NN ,/, "/`` Janet/NNP White/NNP ./. "/''
+"/`` Found/VBN strangled/VBN on/IN a/DT footpath/NN which/WDT was/VBD a/DT short/JJ cut/NN from/IN the/DT schoolhouse/NN to/IN her/PRP$ home/NN ./.
+When/WRB was/VBD Janet/NNP White/NNP killed/VBN ?/. "/''
+"/`` Two/CD and/CC a/DT half/NN years/NNS ago/RB ./. "/''
+"/`` You/PRP are/VBP referring/VBG to/IN Janet/NNP White/NNP ?/.
+"/`` Mathematics/NNP and/CC Latin/NNP ./. "/''
+"/`` Do/VBP you/PRP remember/VB a/DT girl/NN who/WP was/VBD teaching/VBG here/RB two/CD years/NNS ago/IN Janet/NNP White/NNP by/IN name/NN ?/. "/''
+Elizabeth/NNP Whittaker/NNP stiffened/VBD ./.
+Could/MD that/WDT possibly/RB have/VBP been/VBN the/DT murder/NN of/IN Janet/NNP White/NNP ,/, do/VBP you/PRP think/VB ?/.
+How/WRB did/VBD Janet/NNP White/NNP die/VB ?/. "/''
+"/`` She/PRP was/VBD strangled/VBN ,/, walking/VBG home/RB from/IN the/DT school/NN one/CD night/NN ./. "/''
+"/`` Alone/JJ ?/. "/''
+"/`` Probably/RB not/RB alone/JJ ./. "/''
+What/WP were/VBD they/PRP like/UH ,/, Janet/NNP White/NNP and/CC Nora/NNP Ambrose/NNP ?/. "/''
+"/`` Over-sexed/JJ ,/, "/'' said/VBD Elizabeth/NNP Whittaker/NNP ,/, "/`` but/CC in/IN different/JJ ways/NNS ./.
+Janet/NNP White/NNP (/-LRB- Schoolteacher/NNP )/-RRB- ./.

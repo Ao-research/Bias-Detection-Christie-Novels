@@ -1,0 +1,27 @@
+"/`` Why/WRB !/.
+Where/WRB 's/VBZ Georges/NNP ?/. "/''
+Poirot/NNP 's/POS valet/NN ,/, Georges/NNP ,/, had/VBD been/VBN with/IN him/PRP for/IN many/JJ years/NNS ./.
+Possibly/RB the/DT key/NN to/IN the/DT code/NN ,/, if/IN code/NN it/PRP was/VBD ,/, had/VBD been/VBN left/VBN with/IN Georges/NNP ./.
+Georges/NNP had/VBD been/VBN with/IN Poirot/NNP many/JJ years/NNS ./.
+Then/RB I/PRP said/VBD :/: "/`` He/PRP left/VBD with/IN you/PRP ,/, did/VBD he/PRP not/RB ,/, a/DT message/NN for/IN me/PRP ?/. "/''
+Georges/NNP said/VBD at/IN once/RB :/: "/`` For/IN you/PRP ,/, sir/NN ?/.
+Georges/NNP looked/VBD at/IN me/PRP in/IN a/DT very/RB curious/JJ manner/NN ./.
+"/`` But/CC why/WRB ,/, Georges/NNP ,/, why/WRB ?/. "/''
+"/`` I/PRP really/RB could/MD n't/RB say/VB ,/, sir/NN ./. "/''
+"/`` Did/VBD n't/RB you/PRP ask/VB ?/. "/''
+"/`` No/UH ,/, sir/NN ./.
+"/`` Very/RB particular/JJ about/IN his/PRP$ moustache/NN ,/, he/PRP was/VBD ,/, "/'' went/VBD on/IN Georges/NNP ./.
+Georges/NNP coughed/VBD apologetically/RB ./.
+Georges/NNP endeavoured/VBD to/TO do/VB so/RB ,/, but/CC he/PRP was/VBD clearly/RB not/RB very/RB good/JJ at/IN thinking/NN ./.
+Georges/NNP coughed/VBD again/RB ./.
+I/PRP stared/VBD at/IN Georges/NNP ./.
+Curtiss/NNP !/.
+I/PRP had/VBD sent/VBN Georges/NNP away/RB -/HYPH why/WRB ?/.
+I/PRP sent/VBD away/RB Georges/NNP because/IN I/PRP could/MD not/RB have/VB succeeded/VBN in/IN making/VBG him/PRP think/VB that/IN I/PRP had/VBD suddenly/RB lost/VBN all/DT power/NN in/IN my/PRP$ limbs/NNS ./.
+And/CC I/PRP had/VBD sent/VBN away/RB Georges/NNP ./.
+That/DT was/VBD my/PRP$ last/JJ indication/NN to/IN you/PRP ,/, "/`` Go/VB and/CC talk/VB to/IN Georges/NNP ./. "/''
+The/DT evidence/NN of/IN Georges/NNP as/IN to/IN my/PRP$ wearing/VBG a/DT wig/NN ./.
+Take/VB him/PRP up/RP and/CC show/VB him/PRP his/PRP$ room/NN ,/, George/NNP ./.
+"/`` What/WP are/VBP you/PRP doing/VBG ,/, George/NNP ?/, "/''
+"/`` You/PRP 'll/MD do/VB no/DT such/JJ thing/NN ,/, George/NNP ./.
+George/NNP has/VBZ just/RB got/VBN to/TO put/VB up/RP with/IN me/PRP ./. "/''

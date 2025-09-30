@@ -1,0 +1,12 @@
+Ariadne/NNP Oliver/NNP here/RB ./.
+Mrs./NNP Ariadne/NNP Oliver/NNP ./. "/''
+A/DT friend/NN of/IN mine/NN ,/, Mrs./NNP Ariadne/NNP Oliver/NNP --/HYPH "/'' "/`` Oh/UH ,/, of/IN course/NN ./.
+Ariadne/NNP Oliver/NNP was/VBD here/RB last/JJ weekend/NN ./.
+That/DT was/VBD not/RB the/DT procedure/NN that/WDT appealed/VBD to/IN Ariadne/NNP Oliver/NNP ./.
+What/WDT more/JJR could/MD she/PRP ,/, Ariadne/NNP Oliver/NNP ,/, find/VB out/RP about/IN her/PRP ?/.
+Mrs./NNP Oliver/NNP prowled/VBD about/RB ,/, more/RBR and/CC more/RBR disconsolate/JJ ./.
+"/`` Ariadne/NNP Oliver/NNP ?/. "/''
+And/CC then/RB with/IN a/DT casual/JJ phrase/NN ,/, Ariadne/NNP Oliver/NNP had/VBD ,/, as/IN he/PRP thought/VBD ,/, shown/VBN him/PRP the/DT light/NN ./.
+Ariadne/NNP Oliver/NNP 's/POS voice/NN came/VBD through/IN in/IN its/PRP$ usual/JJ cheerful/JJ accents/NNS ./.
+It/PRP was/VBD signed/VBN Ariadne/NNP ./.
+"/`` It/PRP 's/POS no/DT good/JJ ,/, Ariadne/NNP ,/, "/'' said/VBD Mrs./NNP Oliver/NNP to/IN herself/PRP ,/, "/`` you/PRP 've/VBP got/VBD yourself/PRP into/IN this/DT spot/NN ,/, and/CC now/RB you/PRP 've/VBP got/VBD to/TO go/VB on/RP with/IN it/PRP and/CC find/VB out/RP what/WP you/PRP can/MD find/VB out/RP ./. "/''

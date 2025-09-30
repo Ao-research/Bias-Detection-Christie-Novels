@@ -1,0 +1,5 @@
+Yours/NNP sincerely/RB ,/, Eileen/NNP O'Brien/NNP ./.
+The/DT O'Brien/NNP creature/NN is/VBZ good/JJ -/HYPH natured/JJ -/: I/PRP will/MD say/VB that/IN for/IN her/PRP ./.
+As/IN for/IN O'Brien/NNP ,/, she/PRP simpers/VBZ and/CC says/VBZ ,/, '/`` Oh/UH ,/, Doctor/NNP ,/, '/'' and/CC tosses/VBZ those/DT long/JJ streamers/NNS of/IN hers/PRP whenever/WRB he/PRP comes/VBZ near/IN her/PRP ./.
+Funny/JJ ,/, she/PRP thought/VBD to/IN herself/PRP ,/, the/DT way/NN O'Brien/NNP 's/POS letter/NN crossed/VBD mine/PRP ./.
+"/`` "/`` Well/UH ,/, O'Brien/NNP 's/POS Irish/NNP ,/, good/JJ nurse/NN ,/, competent/JJ ,/, a/DT bit/NN silly/JJ ,/, could/MD be/VB spiteful/JJ ,/, a/DT bit/NN of/IN a/DT liar/NN -/HYPH the/DT imaginative/JJ kind/NN that/WDT 's/VBZ not/RB so/RB much/JJ deceitful/JJ ,/, but/CC just/RB has/VBZ to/TO make/VB a/DT good/JJ story/NN out/IN of/IN everything/NN ./.

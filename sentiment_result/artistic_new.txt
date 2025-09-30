@@ -1,0 +1,6 @@
+Mirelle is a Positive. Adjectives: ['practical', 'whimsical', 'strained']
+Katherine Grey is a Positive. Adjectives: ['eyed', 'keen', 'kinder']
+David Lee is a Positive. Adjectives: ['pale', 'open', 'next']
+Ariadne Oliver is a Positive. Adjectives: ['left', 'true', 'third']
+Robin Upward is a Positive. Adjectives: ['disappointed', 'modern', 'solid']
+Michael West is a Positive. Adjectives: ['preferred', 'amusing', 'christian']

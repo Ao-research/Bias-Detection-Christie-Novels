@@ -1,0 +1,64 @@
+Yours/NNP truly/RB ,/, Desmond/NNP Burton/NNP -/HYPH Cox/NNP ./.
+"/`` Nom/NNP d'un/NNP petit/NNP bonhomme/FW !/. "/''
+said/VBD Hercule/NNP Poirot/NNP ./.
+They/PRP will/MD no/RB doubt/RB arise/VB in/IN the/DT course/NN of/IN the/DT conversation/NN I/PRP propose/VBP to/TO hold/VB with/IN Desmond/NNP Burton/NNP -/HYPH Cox/NNP ./.
+"/`` "/`` Mr./NNP Desmond/NNP Burton/NNP -/HYPH Cox/NNP ,/, "/`` announced/VBD George/NNP ,/, ushering/VBG in/IN the/DT expected/VBN guest/NN ./. "/''
+"/`` It/PRP 's/VBZ all/DT going/VBG to/TO be/VB rather/RB difficult/JJ to/TO explain/VB ,/, "/'' said/VBD Desmond/NNP Burton/NNP -/HYPH Cox/NNP ./.
+"/`` "/`` Yes/UH ,/, "/'' said/VBD Desmond/NNP Burton/NNP -/HYPH Cox/NNP ,/, "/`` yes/UH ,/, I/PRP think/VBP what/WP you/PRP say/VBP is/VBZ sensible/JJ and/CC quite/RB right/JJ but/CC -/HYPH well/RB ,/, things/NNS have/VBP been/VBN built/VBN up/RP in/IN such/PDT a/DT way/NN that/WDT I/PRP 've/VBP got/VBN to/TO make/VB sure/JJ that/IN Celia/NNP is/VBZ satisfied/JJ ./.
+"/`` "/`` Well/UH ,/, what/WP is/VBZ that/DT ?/.
+"/`` "/`` As/IN you/PRP say/VBP ,/, Desmond/NNP Burton/NNP -/HYPH Cox/NNP came/VBD to/TO see/VB me/PRP ./.
+Desmond/NNP Burton/NNP -/HYPH Cox/NNP ?/.
+"/`` "/`` Ah/UH ,/, yes/UH ./.
+A/DT boy/NN or/CC a/DT young/JJ man/NN ,/, whichever/WDT we/PRP like/VBP to/TO regard/VB him/PRP as/IN ,/, called/VBN Desmond/NNP Burton/NNP -/HYPH Cox/NNP ./.
+One/CD was/VBD Desmond/NNP Burton/NNP -/HYPH Cox/NNP and/CC the/DT other/JJ was/VBD Celia/NNP Ravenscroft/NNP ./.
+"/`` I/PRP do/VBP n't/RB think/VB ,/, you/PRP know/VBP ,/, that/IN Desmond/NNP would/MD like/VB it/PRP ./.
+Unless/IN -/HYPH "/'' "/`` You/PRP thought/VBD it/PRP was/VBD ,/, unless/IN it/PRP was/VBD something/NN to/TO do/VB with/IN my/PRP$ marrying/NN Desmond/NN ./.
+Desmond/NNP is/VBZ her/PRP$ son/NN ./.
+"/`` "/`` But/CC I/PRP gather/VBP Desmond/NNP is/VBZ n't/RB odious/JJ ./.
+No/UH ,/, I/PRP 'm/VBP very/RB fond/JJ of/IN Desmond/NNP and/CC Desmond/NNP is/VBZ fond/JJ of/IN me/PRP ./.
+And/CC Desmond/NNP feels/VBZ the/DT same/JJ ./.
+"/`` Desmond/NNP looked/VBD rather/RB doubtfully/RB at/IN the/DT figure/NN confronting/VBG him/PRP ./.
+He/PRP added/VBD ,/, "/`` You/PRP are/VBP ,/, perhaps/RB ,/, very/RB much/RB attached/VBN to/IN your/PRP$ mother/NN ?/. "/''
+"/`` I/PRP would/MD n't/RB say/VB that/IN ,/, "/'' said/VBD Desmond/NNP ./.
+"/`` "/`` I/PRP 'm/VBP adopted/VBN ,/, "/'' said/VBD Desmond/NNP ./. "/''
+I/PRP do/VBP n't/RB seem/VB to/TO be/VB getting/VBG on/IN ,/, "/'' said/VBD Desmond/NNP ,/, "/'' with/IN what/WP I/PRP want/VBP to/TO ask/VB you/PRP ./.
+"/`` "/`` Then/RB do/VB n't/RB you/PRP think/VBP that/IN perhaps/RB you/PRP 're/VBP wanting/VBG the/DT impossible/JJ ?/.
+"/`` "/`` I/PRP want/VBP you/PRP to/TO find/VB out/RP ,/, "/'' said/VBD Desmond/NNP ./. "/''
+"/`` Perhaps/RB it/PRP is/VBZ n't/RB ,/, "/'' said/VBD Desmond/NNP ,/, "/'' but/CC you/PRP see/VBP .../, "/'' "/`` And/CC also/RB ,/, "/'' said/VBD Poirot/NNP ,/, interrupting/VBG him/PRP ,/, "/`` do/VB n't/RB you/PRP agree/VBP with/IN me/PRP that/IN it/PRP is/VBZ rather/RB an/DT impossible/JJ thing/NN to/TO do/VB after/IN all/PDT this/DT time/NN ?/. "/''
+"/`` No/UH ,/, "/'' said/VBD Desmond/NNP ,/, "/'' that/DT 's/VBZ where/WRB I/PRP do/VBP n't/RB agree/VB with/IN you/PRP ./. "/''
+Things/NNS happened/VBD ,/, "/'' said/VBD Desmond/NNP ./. "/''
+"/`` So/RB you/PRP think/VBP you/PRP could/MD not/RB give/VB me/PRP names/NNS ?/. "/''
+"/`` Not/RB those/DT sort/NN of/IN names/NNS ,/, "/'' said/VBD Desmond/NNP ./.
+"/`` You/PRP saw/VBD Desmond/NNP ,/, did/VBD n't/RB you/PRP ?/. "/''
+What/WDT difference/NN can/MD it/PRP make/VB to/IN you/PRP or/CC to/IN Desmond/NNP whether/IN the/DT death/NN of/IN two/CD people/NNS was/VBD a/DT double/JJ suicide/NN or/CC something/NN quite/RB different/JJ ?/.
+I/PRP think/VBP Desmond/NNP 's/POS mother/NN -/HYPH I/PRP mean/VBP ,/, I/PRP think/VBP Mrs./NNP Burton/NNP -/HYPH Cox/NNP went/VBD to/IN Malaya/NNP ./.
+I/PRP think/VBP perhaps/RB her/PRP$ husband/NN died/VBD out/RP in/IN Malaya/NNP ,/, and/CC that/IN Desmond/NNP was/VBD sent/VBN to/IN school/NN in/IN England/NNP while/IN they/PRP were/VBD out/RB there/RB and/CC that/IN he/PRP was/VBD boarded/VBN with/IN some/DT cousins/NNS or/CC people/NNS who/WP take/VBP in/IN children/NNS for/IN holidays/NNS ./.
+How/WRB can/MD you/PRP arrange/VB your/PRP$ life/NN and/CC know/VB what/WP you/PRP 're/VBP going/VBG to/TO do/VB with/IN your/PRP$ life/NN if/IN you/PRP do/VBP n't/RB know/VB all/DT about/IN the/DT things/NNS that/WDT affect/VBP you/PRP ,/, that/DT really/RB happened/VBN ?/.
+"/`` "/`` So/RB you/PRP tell/VB me/PRP to/TO carry/VB on/RP with/IN my/PRP$ investigation/NN ?/.
+"/`` "/`` Yes/UH ,/, if/IN it/PRP 's/VBZ going/VBG to/TO produce/VB any/DT results/NNS ,/, though/IN I/PRP do/VBP n't/RB think/VB it/PRP will/MD ,/, because/IN in/IN a/DT way/NN ,/, well/UH ,/, Desmond/NNP and/CC I/PRP have/VBP tried/VBN our/PRP$ hand/NN at/IN finding/VBG out/RP a/DT few/JJ things/NNS ./.
+"/`` "/`` Has/VBZ the/DT boy/NN Desmond/NN made/VBD a/DT will/NN ?/.
+"/`` asked/VBD Poirot/NNP ./.
+If/IN young/JJ Desmond/NNP had/VBD a/DT girl/NN friend/NN ,/, if/IN he/PRP proposed/VBD to/TO marry/VB her/PRP in/IN the/DT near/JJ future/NN ,/, which/WDT is/VBZ what/WP a/DT lot/NN of/IN young/JJ people/NNS do/VBP nowadays/RB -/HYPH they/PRP ca/MD n't/RB wait/VB or/CC think/VB it/PRP over/RP ./.
+"/`` "/`` Did/VBD you/PRP know/VB a/DT boy/NN called/VBN Desmond/NNP ?/.
+His/PRP$ name/NN was/VBD Desmond/NNP ./.
+"/`` "/`` Ah/UH ,/, by/IN Desmond/NNP 's/POS mother/NN ,/, I/PRP presume/VBP ./.
+Celia/NNP has/VBZ a/DT godmother/NN who/WP was/VBD asked/VBN by/IN Desmond/NNP 's/POS mother/NN to/TO try/VB and/CC find/VB out/RP from/IN Celia/NNP the/DT exact/JJ circumstances/NNS under/IN which/WDT that/WDT suicide/NN occurred/VBD ./.
+"/`` I/PRP got/VBD an/DT order/NN from/IN the/DT house/NN agent/NN ,/, "/'' said/VBD Desmond/NNP ,/, "/`` saying/VBG we/PRP wanted/VBD to/TO view/VB it/PRP or/CC however/RB they/PRP put/VBD it/PRP ./. "/''
+"/`` Do/VBP you/PRP really/RB believe/VBP in/IN haunted/JJ houses/NNS ?/. "/''
+said/VBD Desmond/NNP ./.
+"/`` Desmond/NNP ,/, was/VBD it/PRP -/: was/VBD it/PRP you/PRP ?/. "/''
+"/`` Yes/UH ./.
+Desmond/NNP thought/VBD you/PRP could/MD tell/VB us/PRP something/NN ./.
+"/`` "/`` It/PRP 's/VBZ a/DT court/NN of/IN inquiry/NN ,/, is/VBZ it/PRP ?/.
+"/`` said/VBD Desmond/NNP ./. "/''
+"/`` Do/VBP you/PRP mean/VB it/PRP knew/VBD she/PRP was/VBD going/VBG to/TO commit/VB suicide/NN ?/. "/''
+Desmond/NNP stared/VBD ./.
+"/`` "/`` Are/VBP you/PRP saying/VBG ,/, "/`` asked/VBD Desmond/NNP ,/, "/'' that/IN it/PRP was/VBD she/PRP who/WP shot/VBD both/CC the/DT Ravenscrofts/NNPS ?/.
+"/`` "/`` No/UH ,/, "/'' said/VBD Poirot/NNP ,/, "/'' that/DT is/VBZ not/RB my/PRP$ solution/NN ./.
+"/`` "/`` It/PRP 's/VBZ a/DT horrible/JJ story/NN ,/, "/'' said/VBD Desmond/NNP ./. "/''
+Perhaps/RB you/PRP were/VBD right/RB from/IN your/PRP$ point/NN of/IN view/NN ,/, but/CC I/PRP -/: I/PRP am/VBP glad/JJ to/TO know/VB ,/, because/IN now/RB a/DT great/JJ burden/NN seems/VBZ to/TO have/VB been/VBN lifted/VBN off/IN me/PRP -/, "/'' "/`` Because/IN now/RB ,/, "/'' said/VBD Desmond/NNP ,/, "/'' we/PRP both/DT know/VBP ./.
+"/`` "/`` I/PRP think/VBP ,/, Celia/NNP ,/, "/'' said/VBD Desmond/NNP ,/, "/'' we/PRP 'd/VBD better/RBR get/VB married/VBN now/RB as/RB soon/RB as/IN possible/JJ ./.
+"/`` "/`` Your/PRP$ adopted/VBN mother/NN ,/, Desmond/NNP ,/, "/'' said/VBD Poirot/NNP ,/, "/`` I/PRP have/VBP good/JJ reason/NN to/TO believe/VB was/VBD anxious/JJ to/TO come/VB between/IN you/PRP and/CC Celia/NNP and/CC tried/VBD to/TO influence/VB you/PRP in/IN the/DT idea/NN that/IN from/IN her/PRP$ mother/NN and/CC father/NN she/PRP might/MD have/VB inherited/VBN some/DT terrible/JJ characteristic/JJ ./.
+"/`` "/`` If/IN I/PRP marry/VBP Celia/NNP ,/, of/IN course/NN we/PRP shall/MD need/VB the/DT money/NN to/TO live/VB on/IN ,/, "/'' said/VBD Desmond/NNP ./. "/''
+I/PRP dare/MD say/VB she/PRP could/MD tell/VB herself/PRP that/IN she/PRP meant/VBD it/PRP all/DT for/IN the/DT best/JJS ,/, that/IN Celia/NNP 's/POS origin/NN is/VBZ something/NN that/WDT you/PRP ought/MD to/TO know/VB if/IN there/EX is/VBZ a/DT risk/NN for/IN you/PRP to/TO take/VB ,/, but/CC -/, "/'' "/`` All/RB right/RB ,/, "/'' said/VBD Desmond/NNP ,/, "/'' but/CC -/, I/PRP know/VBP I/PRP 'm/VBP being/VBG unkind/JJ ./.
+"/`` And/CC I/PRP was/VBD very/RB fond/JJ of/IN you/PRP ,/, too/RB ,/, when/WRB I/PRP knew/VBD you/PRP ,/, "/'' said/VBD Desmond/NNP ./.

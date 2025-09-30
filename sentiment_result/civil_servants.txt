@@ -1,0 +1,7 @@
+Bland is a Positive. Adjectives: ['difficult', 'friendly', 'interested']
+Superintendent Sugden is a Positive. Adjectives: ['chief', 'satisfied', 'pleasant']
+Marsden is a Positive. Adjectives: ['affable', 'experienced', 'cheerful']
+Dick Hardcastle is a Positive. Adjectives: ['avuncular', 'clever', 'professional']
+Colin "Lamb" is a Negative. Adjectives: ['strange', 'dear', 'kind']
+Colonel Beck is a Negative. Adjectives: ['sigh', 'earthstained', 'old']
+Superintendent Spence is a Positive. Adjectives: ['suggestive', 'imperturbable', 'impressed']

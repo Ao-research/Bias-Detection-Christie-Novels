@@ -1,0 +1,51 @@
+George Stubbs is a Positive. Adjectives: ['full', 'angry', 'rich']
+Hattie Stubbs is a Positive. Adjectives: ['fond', 'suggestible', 'delighted']
+Sally Legge is a Positive. Adjectives: ['intelligent', 'english', 'slight']
+Rufus Van Aldin is a Negative. Adjectives: ['tough', 'old', 'dear']
+Ruth Kettering is a Negative. Adjectives: ['annoying', 'nasty', 'beautiful']
+Derek Kettering is a Positive. Adjectives: ['foolish', 'amiable', 'careful']
+Simeon Lee is a Positive. Adjectives: ['appreciative', 'straight', 'back']
+Alfred Lee is a Positive. Adjectives: ['charming', 'hey', 'devoted']
+Lydia Lee is a Positive. Adjectives: ['rapid', 'agile', 'few']
+George Lee is a Negative. Adjectives: ['respectable', 'blank', 'damned']
+Magdalene Lee is a Negative. Adjectives: ['afraid', 'envious', 'magdalene']
+Hilda Lee is a Positive. Adjectives: ['broad', 'sweet', 'firm']
+Harry Lee is a Positive. Adjectives: ['best', 'easy', 'fond']
+Pilar Estravados is a Positive. Adjectives: ['english', 'peaceful', 'sunny']
+Mrs Laura Welman is a Positive. Adjectives: ['awake', 'massive', 'ready']
+Elinor Carlisle is a Positive. Adjectives: ['impulse', 'large', 'fascinating']
+Charles Cartwright is a Positive. Adjectives: ['versatile', 'cheerful', 'startled']
+Lady Mary Lytton Gore is a Positive. Adjectives: ['agreeable', 'ingenuous', 'natural']
+Muriel Wills is a Positive. Adjectives: ['curious', 'fancy', 'witty']
+Miss Katherine Martindale is a Positive. Adjectives: ['sandy', 'amenable', 'restive']
+Ariadne Oliver is a Positive. Adjectives: ['cashmere', 'horrified', 'aware']
+Desmond Burton-Cox is a Negative. Adjectives: ['marrying', 'odious', 'natural']
+Margaret Ravenscroft is a Positive. Adjectives: ['older', 'dead', 'other']
+Alistair Ravenscroft is a Positive. Adjectives: ['interesting', 'simple', 'young']
+Celia Ravenscroft is a Positive. Adjectives: ['true', 'touchy', 'worried']
+Gordon Cloade is a Positive. Adjectives: ['extraordinary', 'proud', 'next']
+Rosaleen Cloade is a Positive. Adjectives: ['much', 'lovely', 'unlikely']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

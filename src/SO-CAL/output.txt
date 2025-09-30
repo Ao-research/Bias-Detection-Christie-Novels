@@ -1,0 +1,100 @@
+25_Horlick.txt	5.0
+23_RuthKettering.txt	-40.0
+29_Celia.txt	-10.0
+23_KatherineGrey.txt	36.0
+31_Robert Underhay.txt	-12.0
+25_EileenOBrien.txt	11.0
+31_David Hunter.txt	5.0
+29_Desmond BurtonCox.txt	0.0
+28_Millicent Pebmarsh.txt	8.0
+24_LyaiaLee.txt	24.0
+26_RoderickHorsefield.txt	16.0
+30_Lily Gamboll.txt	-3.0
+30_Mrs McGinty.txt	5.0
+26_Ariadne Oliver.txt	10.0
+31_Gladys.txt	-7.0
+30_Deirdre Henderson.txt	5.0
+27_Oliver Manders.txt	9.0
+31_Porter.txt	2.0
+28_Merlina Rival.txt	-21.0
+28_Miss Martindale.txt	-2.0
+21_SallyLegge.txt	12.0
+26_Sonia.txt	3.0
+26_George.txt	12.0
+23_RosalieTamplin.txt	-7.0
+27_Dacres.txt	26.0
+27_Lytton gore.txt	53.0
+29_Buckle.txt	3.0
+27_Bartholomew Strange.txt	47.0
+31_Rowley Cloade.txt	13.0
+26_JohnStillingfleet.txt	25.0
+29_Julia Carstairs.txt	10.0
+25_Mary Gerrard.txt	40.0
+29_ROSENTELLE.txt	8.0
+24_DavidLee.txt	-5.0
+30_Robin Upward.txt	55.0
+26_NormaRestarick.txt	24.0
+27_Charles Cartwright.txt	47.0
+23_DerekKettering.txt	-1.0
+25_LauraWelman.txt	34.0
+25_ElinorCarlisle.txt	35.0
+23_Monsieur.txt	19.0
+25_Roderick Welman.txt	20.0
+23_Mirelle.txt	-5.0
+31_Jeremy Cloade.txt	7.0
+21_AlecLegge.txt	-4.0
+24_SimeonLee.txt	13.0
+30_James Bentley.txt	4.0
+28_Dick Hardcastle.txt	23.0
+28_Beck.txt	-3.0
+27_Wills.txt	-10.0
+23_RufusVan Aldin.txt	-1.0
+21_Etienne de Sousa.txt	0
+28_Lawton.txt	-8.0
+24_SuperintendentSugden.txt	16.0
+24_AlfredLee.txt	20.0
+26_LouiseBirell.txt	4.0
+23_ZiaPapopolous.txt	7.0
+24_StephenFarr.txt	10.0
+21_MichaelWeyman.txt	21.0
+31_Superintendent Spence.txt	2.0
+29_Margaret Ravenscroft.txt	1.0
+21_MrsTucker.txt	11.0
+29_Alistair Ravenscroft.txt	-1.0
+26_ClaudiaReeceHolland.txt	5.0
+30_Johnnie Summerhayes.txt	-6.0
+30_Maude Williams.txt	-10.0
+21_MissBrewis.txt	-14.0
+31_Gordon Cloade.txt	26.0
+31_Rosaleen Hunter.txt	31.0
+29_Matcham.txt	-4.0
+21_MarleneTucker.txt	-15.0
+21_HattieStubbs.txt	-6.0
+31_Beatrice Lippincott.txt	7.0
+26_Andrew Restarick.txt	-14.0
+27_Babbington.txt	-12.0
+27_Ellis.txt	2.0
+28_Josaiah Bland.txt	-108.0
+27_de Rushbridger.txt	2.0
+24_HildaLee.txt	8.0
+27_Miss Milray.txt	20.0
+21_GeorgeStubbs.txt	23.0
+29_Willoughby.txt	5.0
+29_Ariadne Oliver.txt	129.0
+21_Bland.txt	-156.0
+25_Ted Bigland.txt	5.0
+30_Michael West.txt	6.0
+26_FrancesCary.txt	-1.0
+28_Sheila Webb.txt	-22.0
+25_Seddon.txt	6.0
+28_Harry Castleton.txt	-13.0
+24_Tressilian.txt	2.0
+23_LenoxTamplin.txt	-7.0
+24_MagdaleneLee.txt	-5.0
+25_Lewis Rycroft.txt	2.0
+23_RichardKnighton.txt	63.0
+30_Maude.txt	1.0
+28_Colin.txt	51.0
+30_Maureen Summerhayes.txt	15.0
+24_GeorgeLee.txt	-14.0
+25_JessieHopkins.txt	6.0

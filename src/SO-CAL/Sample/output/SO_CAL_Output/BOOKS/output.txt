@@ -1,0 +1,157 @@
+32_Mrs LlewellynSmythe.txt	0.16535087719298244
+25_Horlick.txt	0.875
+23_Rosalie Tamplin.txt	-2.1333333333333333
+32_Michael Garfield.txt	0.6749999999999999
+32_Leopold.txt	-1.1363636363636365
+23_RuthKettering.txt	-0.8317901234567902
+29_Celia.txt	-0.5142857142857143
+24_Superintendent Sugden.txt	-0.35572916666666665
+21_Miss Brewis.txt	-1.112121212121212
+23_KatherineGrey.txt	0.4093137254901961
+26_Louise Birell.txt	-0.9800000000000002
+31_Robert Underhay.txt	-0.6065217391304346
+25_EileenOBrien.txt	0.9090909090909091
+31_David Hunter.txt	-0.6705882352941177
+29_Desmond BurtonCox.txt	-0.23222222222222222
+28_Millicent Pebmarsh.txt	0.11562499999999992
+24_LyaiaLee.txt	0.17515723270440256
+26_RoderickHorsefield.txt	0.02177419354838712
+30_Lily Gamboll.txt	-0.7307692307692307
+30_Mrs McGinty.txt	-0.30694980694980695
+26_Ariadne Oliver.txt	1.1
+32_Emlyn.txt	0.5650000000000001
+32_Judith Butler.txt	0.18181818181818182
+31_Gladys.txt	0.05555555555555555
+21_Merrall.txt	-0.9399999999999998
+30_Deirdre Henderson.txt	-1.0220588235294117
+27_Oliver Manders.txt	-0.5244444444444444
+31_Porter.txt	-0.6359649122807017
+33_Toby Luttrell.txt	-0.8727941176470589
+28_Merlina Rival.txt	0.592391304347826
+28_Miss Martindale.txt	-0.7369791666666666
+21_SallyLegge.txt	0.75
+26_Sonia.txt	0.5833333333333334
+26_George.txt	0.020833333333333332
+23_RosalieTamplin.txt	-2.1333333333333333
+27_Dacres.txt	0.8080645161290323
+27_Lytton gore.txt	-0.11033333333333338
+33_Elizabeth Cole.txt	0.20909090909090908
+29_Buckle.txt	0.5
+27_Bartholomew Strange.txt	0.15840899919289753
+31_Rowley Cloade.txt	-0.41080858085808575
+26_JohnStillingfleet.txt	0.6631578947368422
+29_Julia Carstairs.txt	0.7818181818181817
+25_Mary Gerrard.txt	-0.24873845060412225
+29_ROSENTELLE.txt	0.5833333333333334
+24_DavidLee.txt	-0.7777777777777778
+26_Norma Restarick.txt	-0.7823076923076925
+30_Robin Upward.txt	0.10078125000000004
+24_David Lee.txt	-0.7777777777777778
+23_Lenox Tamplin.txt	-0.5568965517241379
+26_NormaRestarick.txt	-0.7823076923076925
+33_Judith.txt	-0.04978354978354977
+21_George Stubbs.txt	0.07449494949494952
+33_Barbara Franklin.txt	-0.2911764705882353
+24_Lyaia Lee.txt	0.17515723270440256
+26_Frances Cary.txt	-0.7222222222222222
+27_Charles Cartwright.txt	0.2828828828828828
+24_Hilda Lee.txt	-0.3431306306306306
+23_DerekKettering.txt	-0.43390804597701144
+25_LauraWelman.txt	-0.15347515856236785
+25_ElinorCarlisle.txt	-0.06403392838021817
+23_Monsieur.txt	0.4954545454545455
+32_Janet White.txt	-1.875
+25_Roderick Welman.txt	0.5976190476190476
+23_Mirelle.txt	-0.24109195402298852
+31_Jeremy Cloade.txt	-0.29117647058823526
+32_Miranda Butler.txt	0.75
+21_AlecLegge.txt	-0.7
+24_SimeonLee.txt	0.2596354166666667
+33_Allerton.txt	-0.8870967741935484
+32_Ann.txt	-1.05
+26_John Stillingfleet.txt	0.6631578947368422
+30_James Bentley.txt	-0.8636612021857923
+24_Magdalene Lee.txt	-0.8212499999999998
+28_Dick Hardcastle.txt	-0.46875
+28_Beck.txt	-1.9333333333333333
+25_Elinor Carlisle.txt	-0.06403392838021817
+27_Wills.txt	-1.736206896551724
+23_RufusVan Aldin.txt	0.4
+21_Etienne de Sousa.txt	0.0
+28_Lawton.txt	-0.7892857142857144
+24_SuperintendentSugden.txt	-0.35572916666666665
+23_Zia Papopolous.txt	0.8166666666666667
+24_AlfredLee.txt	-0.3282608695652174
+33_John Franklin.txt	-1.15
+26_LouiseBirell.txt	-0.9800000000000002
+25_Eileen OBrien.txt	0.9090909090909091
+33_William Boyd.txt	0.03316498316498316
+23_ZiaPapopolous.txt	0.8166666666666667
+24_StephenFarr.txt	-0.5534482758620689
+21_Mrs Tucker.txt	0.7047619047619047
+24_George Lee.txt	-1.161764705882353
+21_MichaelWeyman.txt	0.44930555555555546
+31_Superintendent Spence.txt	-0.05156250000000001
+29_Margaret Ravenscroft.txt	1.5
+21_MrsTucker.txt	0.7047619047619047
+29_Alistair Ravenscroft.txt	-0.32222222222222224
+26_ClaudiaReeceHolland.txt	0.011111111111111108
+30_Johnnie Summerhayes.txt	-1.5735294117647058
+30_Maude Williams.txt	-0.38846153846153847
+21_MissBrewis.txt	-1.112121212121212
+21_Hattie Stubbs.txt	-0.9789473684210527
+31_Gordon Cloade.txt	0.13474025974025974
+26_Roderick Horsefield.txt	0.02177419354838712
+31_Rosaleen Hunter.txt	-0.20697674418604653
+33_Nurse Craven.txt	0.6458333333333333
+32_Rowena Drake.txt	-0.21428571428571427
+24_Alfred Lee.txt	-0.3282608695652174
+29_Matcham.txt	-0.9857142857142858
+32_Fullerton.txt	-0.495
+21_MarleneTucker.txt	-0.7955555555555555
+21_HattieStubbs.txt	-0.9789473684210527
+25_Jessie Hopkins.txt	0.6666666666666666
+21_Alec Legge.txt	-0.7
+31_Beatrice Lippincott.txt	0.3821428571428571
+26_Andrew Restarick.txt	-0.9399999999999998
+27_Babbington.txt	-0.6496575342465754
+27_Ellis.txt	-0.25916666666666666
+28_Josaiah Bland.txt	-0.5431372549019607
+27_de Rushbridger.txt	-0.0625
+24_HildaLee.txt	-0.3431306306306306
+27_Miss Milray.txt	-0.4028846153846154
+21_GeorgeStubbs.txt	0.07449494949494952
+23_Rufus Van Aldin.txt	0.4
+29_Willoughby.txt	1.1333333333333335
+33_Georges.txt	-0.6800000000000002
+29_Ariadne Oliver.txt	-0.14090355667060211
+21_Bland.txt	-0.09672131147540984
+25_Ted Bigland.txt	-0.28846153846153844
+30_Michael West.txt	-0.1875
+26_FrancesCary.txt	-0.7222222222222222
+26_Claudia ReeceHolland.txt	0.011111111111111108
+25_Laura Welman.txt	-0.15347515856236785
+21_Marlene Tucker.txt	-0.7955555555555555
+28_Sheila Webb.txt	-1.1844262295081966
+25_Seddon.txt	-0.10526315789473684
+32_Olga Seminoff.txt	-0.580952380952381
+33_Stephen Norton.txt	-0.625
+28_Harry Castleton.txt	-0.638235294117647
+32_Joyce Reynolds.txt	-0.3928463246375618
+24_Stephen Farr.txt	-0.5534482758620689
+24_Tressilian.txt	-0.44565217391304346
+23_Derek Kettering.txt	-0.43390804597701144
+23_LenoxTamplin.txt	-0.5568965517241379
+21_Michael Weyman.txt	0.44930555555555546
+24_MagdaleneLee.txt	-0.8212499999999998
+25_Lewis Rycroft.txt	-0.9
+23_RichardKnighton.txt	0.11141304347826086
+30_Maude.txt	0.25
+33_Curtiss.txt	-0.10166666666666666
+28_Colin.txt	0.28725490196078435
+21_Sally Legge.txt	0.75
+24_Simeon Lee.txt	0.2596354166666667
+30_Maureen Summerhayes.txt	-0.16129032258064516
+24_GeorgeLee.txt	-1.161764705882353
+25_JessieHopkins.txt	0.6666666666666666
+23_Ruth Kettering.txt	-0.8317901234567902

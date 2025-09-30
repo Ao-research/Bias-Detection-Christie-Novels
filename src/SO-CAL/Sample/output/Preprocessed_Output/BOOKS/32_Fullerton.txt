@@ -1,0 +1,51 @@
+Fullerton/NNP ,/, Harrison/NNP and/CC Leadbetter/NNP ./.
+"/`` Lawyer/NNP 's/POS clerk/NN ,/, twenty/CD -/HYPH eight/CD ,/, employed/VBN by/IN Messrs./NNP Fullerton/NNP ,/, Harrison/NNP and/CC Leadbetter/NNP of/IN Market/NNP Street/NNP ,/, Medchester/NNP ./. "/''
+He/PRP got/VBD a/DT short/JJ sentence/NN and/CC was/VBD taken/VBN on/RP by/IN Fullerton/NNP ,/, Harrison/NNP and/CC Leadbetter/NNP when/WRB he/PRP came/VBD out/IN of/IN prison/NN ./. "/''
+"/`` I/PRP have/VBP made/VBN an/DT appointment/NN for/IN tomorrow/NN morning/NN with/IN Messrs./NNP Fullerton/NNP ,/, Harrison/NNP and/CC Leadbetter/NNP in/IN Medchester/NNP ./. "/''
+A/DT lean/JJ ,/, elderly/JJ man/NN ,/, Mr/NNP Fullerton/NNP ,/, with/IN an/DT impassive/JJ face/NN ,/, a/DT dry/JJ ,/, legal/JJ voice/NN ,/, and/CC eyes/NNS that/WDT were/VBD unexpectedly/RB shrewd/JJ ./.
+An/DT elderly/JJ man/NN ,/, a/DT foreigner/NN ,/, very/RB dapper/JJ in/IN his/PRP$ dress/NN ,/, unsuitably/RB attired/VBN as/IN to/IN the/DT feet/NNS in/IN patent/NN leather/NN shoes/NNS which/WDT were/VBD ,/, so/RB Mr/NNP Fullerton/NNP guessed/VBD shrewdly/RB ,/, too/RB tight/JJ for/IN him/PRP ./.
+"/`` Superintendent/NNP Spence/NNP ,/, eh/UH ?/. "/''
+said/VBD Mr/NNP Fullerton/NNP ./.
+Fullerton/NNP knew/VBD Spence/NNP ./.
+You/PRP paid/VBD the/DT full/JJ penalty/NN and/CC more/JJR 's/POS the/DT pity/NN they/PRP 've/VBP given/VBN it/PRP up/RP ,/, so/CC Mr/NNP Fullerton/NNP thought/VBD in/IN his/PRP$ dry/JJ mind/NN ./.
+And/CC now/RB -/HYPH senile/RB probably/RB ,/, thought/VBD Mr/NNP Fullerton/NNP ,/, but/CC all/PDT the/DT same/JJ he/PRP himself/PRP would/MD take/VB the/DT prudent/JJ course/NN ./.
+Mr/NNP Fullerton/NNP might/MD think/VB he/PRP had/VBD a/DT fairly/RB shrewd/JJ idea/NN of/IN who/WP had/VBD committed/VBN that/IN homicide/NN ,/, but/CC he/PRP was/VBD not/RB so/RB sure/JJ as/IN he/PRP would/MD like/VB to/TO be/VB ,/, because/IN there/EX were/VBD at/RB least/RBS three/CD claimants/NNS in/IN the/DT matter/NN ./.
+All/PDT this/DT took/VBD about/RB four/CD minutes/NNS '/POS time/NN and/CC Mr/NNP Fullerton/NNP then/RB cleared/VBD his/PRP$ throat/NN in/IN a/DT slightly/RB asthmatic/JJ fashion/NN ,/, and/CC spoke/VBD ./.
+"/`` Quite/PDT suddenly/RB ./. "/''
+Fullerton/NNP looked/VBD at/IN Poirot/NNP sharply/RB ./.
+Mr/NNP Fullerton/NNP looked/VBD somewhat/RB surprised/JJ ./.
+"/`` They/PRP 'd/VBD tell/VB their/PRP$ mothers/NNS ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+"/`` In/IN a/DT place/NN like/IN this/DT ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ,/, "/`` one/CD usually/RB hears/VBZ any/DT rumour/NN that/WDT may/MD be/VB going/VBG round/RB ./.
+She/PRP was/VBD not/RB ,/, if/IN I/PRP remember/VBP rightly/RB ,/, a/DT particularly/RB attractive/JJ girl/NN ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+"/`` Ah/UH ,/, indeed/RB ./. "/''
+"/`` I/PRP have/VBP no/DT doubt/NN ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ,/, "/`` that/IN I/PRP am/VBP not/RB telling/VBG you/PRP anything/NN that/WDT you/PRP have/VBP not/RB heard/VBN already/RB ./.
+"/`` A/DT most/RBS surprising/JJ thing/NN to/TO happen/VB ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+"/`` Yes/UH ,/, Mr/NNP Fullerton/NNP ./. "/''
+Yet/RB along/IN with/IN his/PRP$ intrinsic/JJ belief/NN in/IN the/DT administration/NN of/IN the/DT law/NN justly/RB ,/, Mr/NNP Fullerton/NNP was/VBD a/DT man/NN who/WP had/VBD compassion/NN ./.
+"/`` The/DT circumstances/NNS you/PRP have/VBP instanced/VBN -/HYPH "/'' and/CC Mr/NNP Fullerton/NNP remembered/VBD how/WRB dryly/RB and/CC coldly/RB he/PRP had/VBD said/VBN that/IN ,/, all/PDT the/DT more/RBR dryly/RB and/CC coldly/RB because/IN of/IN the/DT pity/NN that/WDT lay/VBD behind/IN the/DT dryness/NN of/IN the/DT statement/NN -/HYPH "/`` do/VBP not/RB apply/VB ./.
+"/`` She/PRP was/VBD fond/JJ of/IN you/PRP ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+"/`` No/UH ,/, "/'' Mr/NNP Fullerton/NNP said/VBD ,/, "/`` I/PRP am/VBP not/RB on/IN your/PRP$ side/NN ./.
+"/`` It/PRP 's/VBZ not/RB just/RB a/DT question/NN of/IN butter/NN ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+Nothing/NN "/'' "/`` I/PRP have/VBP tried/VBN to/TO explain/VB to/IN you/PRP ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+Nobody/NN can/MD say/VB anything/NN different/JJ ./. "/''
+"/`` Certain/JJ people/NNS say/VBP a/DT good/JJ many/JJ things/NNS ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+Although/IN ,/, as/IN you/PRP know/VBP ,/, the/DT rheumatism/NN in/IN my/PRP$ wrist/NN is/VBZ getting/VBG worse/JJR and/CC I/PRP find/VBP it/PRP more/RBR difficult/JJ ,/, but/CC I/PRP do/VBP n't/RB want/VB my/PRP$ personal/JJ letters/NNS typewritten/VBN ./.
+'/`` "/'' "/`` You/PRP could/MD have/VB written/VBN them/PRP in/IN your/PRP$ ordinary/JJ handwriting/NN ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ,/, "/`` and/CC put/VB a/DT note/NN at/IN the/DT end/NN saying/VBG '/`` per/IN secretary/NN '/'' or/CC per/IN initials/NNS if/IN you/PRP liked/VBD ./. "/''
+And/CC that/DT ,/, Mr/NNP Fullerton/NNP thought/VBD ,/, could/MD be/VB true/JJ enough/JJ ./.
+It/PRP was/VBD in/IN his/PRP$ own/JJ office/NN ,/, Mr/NNP Fullerton/NNP reflected/VBD ,/, that/IN suspicions/NNS had/VBD arisen/VBN because/IN both/CC he/PRP and/CC his/PRP$ younger/JJR partner/NN knew/VBD Mrs/NNP Llewellyn/NNP -/HYPH Smythe/NNP 's/POS handwriting/NN very/RB well/RB ./.
+Mr/NNP Fullerton/NNP had/VBD agreed/VBN that/IN there/EX was/VBD something/NN wrong/JJ about/IN it/PRP ./.
+And/CC Mr/NNP Fullerton/NNP ,/, against/IN his/PRP$ will/NN ,/, against/IN his/PRP$ legal/JJ instincts/NNS and/CC against/IN a/DT good/JJ deal/NN more/RBR ,/, felt/VBD sorry/JJ for/IN her/PRP ./.
+Why/WRB do/VBP you/PRP not/RB tell/VB me/PRP what/WP I/PRP can/MD do/VB ?/. "/''
+"/`` Because/IN I/PRP do/VBP not/RB really/RB think/VB there/EX is/VBZ anything/NN much/JJ you/PRP can/MD do/VB ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ./.
+"/`` My/PRP$ dear/JJ child/NN ,/, "/'' said/VBD Mr/NNP Fullerton/NNP ,/, "/`` your/PRP$ best/JJS hope/NN is/VBZ the/DT fact/NN that/IN you/PRP are/VBP a/DT first/JJ offender/NN ,/, that/IN you/PRP are/VBP a/DT foreigner/NN ,/, that/IN you/PRP understand/VBP the/DT English/NNP language/NN only/RB in/IN a/DT rather/RB rudimentary/JJ form/NN ./.
+"/`` Now/RB you/PRP are/VBP talking/VBG nonsense/NN ,/, "/'' Mr/NNP Fullerton/NNP said/VBD ./.
+I/PRP could/MD walk/VB about/RB on/IN crutches/NNS ./. "/''
+"/`` Listen/VB ,/, "/'' Mr/NNP Fullerton/NNP had/VBD said/VBN ,/, and/CC he/PRP had/VBD spoken/VBN then/RB with/IN authority/NN ,/, "/`` I/PRP am/VBP sorry/JJ for/IN you/PRP ./.
+Nobody/NN ,/, Mr/NNP Fullerton/NNP thought/VBD ,/, had/VBD found/VBN her/PRP ./.
+What/WP have/VBP you/PRP been/VBN doing/VBG ?/, "/''
+"/`` I/PRP rang/VBD up/RP Mr/NNP Fullerton/NNP ,/, the/DT solicitor/NN ./.
+Mr/NNP Fullerton/NNP was/VBD a/DT careful/JJ and/CC competent/JJ lawyer/NN ./.
+Fullerton/NNP ,/, Harrison/NNP and/CC Leadbetter/NNP ./.
+Mr/NNP Fullerton/NNP took/VBD him/PRP on/IN and/CC hoped/VBD to/TO make/VB an/DT honest/JJ man/NN of/IN him/PRP ./.
+He/PRP 's/VBZ a/DT good/JJ chap/NN ,/, old/JJ Fullerton/NNP ./. "/''
+Jeremy/NNP Fullerton/NNP was/VBD an/DT upholder/NN of/IN the/DT law/NN ./.

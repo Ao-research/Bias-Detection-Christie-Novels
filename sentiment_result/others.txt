@@ -1,0 +1,11 @@
+Mirelle is a Positive. Adjectives: ['practical', 'whimsical', 'strained']
+Katherine Grey is a Positive. Adjectives: ['eyed', 'keen', 'kinder']
+David Lee is a Positive. Adjectives: ['pale', 'open', 'next']
+Ariadne Oliver is a Positive. Adjectives: ['left', 'true', 'third']
+Robin Upward is a Positive. Adjectives: ['disappointed', 'modern', 'solid']
+Michael West is a Positive. Adjectives: ['preferred', 'amusing', 'christian']
+(base) denggeyileao@DenggeyiledeMacBook-Air status_adj % python3 char_roles.py
+Marlene Tucker is a Positive. Adjectives: ['fat', 'fair', 'clever']
+Monsieur Marquis is a Positive. Adjectives: ['mysterious', 'intense', 'discreet']
+Dorothea Ravenscroft is a Negative. Adjectives: ['mild', 'tragic']
+David Hunter is a Negative. Adjectives: ['queer', 'beholden', 'odious']
